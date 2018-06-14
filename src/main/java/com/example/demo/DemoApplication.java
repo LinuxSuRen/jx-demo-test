@@ -18,6 +18,6 @@ public class DemoApplication {
 	@RequestMapping("/")
     @ResponseBody
     public String test() {
-	    return "hello world jx";
+	    return "hello world jx -- v1";
     }
 }
